@@ -4,7 +4,7 @@
   domain: "uditganguly.dev",
   college: "JIS College Of Engineering, Kalyani",
   yearAndDept: "2nd Year B.Tech in Computer Science & Engineering (CSE)",
-  title: "2nd Year B.Tech CSE Student @ JIS College Of Engineering | Tech Enthusiast",
+  title: "Aspiring Cyber Security Specialist and Ethical Hacker with Software Developer",
   subtitles: [
     "2nd Year B.Tech CSE Student at JIS College Of Engineering, Kalyani",
     "Strengthening DSA Journey Through Java",
@@ -14,9 +14,9 @@
     "Smart Governance for Coal Mines Innovator",
     "Avid Hackathon Competitor & Tech Enthusiast"
   ],
-  bio: "I am Udit Narayan Ganguly, a 2nd-year B.Tech Computer Science and Engineering student at JIS College Of Engineering, Kalyani. As an enthusiastic technologist, I have foundational knowledge in Java, Python, SQL, and HTML. I am actively strengthening my Data Structures and Algorithms (DSA) through Java, while pursuing my passion in Cyber Security and Ethical Hacking through specialized courses. With an eye toward the future, I am also learning AI and Machine Learning. I love building practical, impactful projectsâ€”most proudly 'MaatiKatha' and a 'Smart Governance Monitoring System for Coal Mines'â€”and have enriched my problem-solving skills across several hackathons.",
+  bio: "I am Udit Narayan Ganguly, a 2nd-year B.Tech Computer Science and Engineering student at JIS College Of Engineering, Kalyani. As an enthusiastic technologist, I have foundational knowledge in Java, Python, SQL, and HTML. I am actively strengthening my Data Structures and Algorithms (DSA) through Java, while pursuing my passion in Cyber Security and Ethical Hacking through specialized courses. With an eye toward the future, I am also learning AI and Machine Learning. I love building practical, impactful projects - most proudly 'MaatiKatha' and a 'Smart Governance Monitoring System for Coal Mines' - and have enriched my problem-solving skills across several hackathons.",
   location: "Kalyani, West Bengal, India (IST, UTC+5:30)",
-  availability: "Open for Tech Internships, Hackathons & Cybersecurity Projects",
+  availability: "Open for Tech Projects, Hackathons & Open Source", 
   email: "uditnarayanganguly10@gmail.com",
   phone: "+91 9064470858",
   rawPhone: "9064470858",
@@ -52,7 +52,7 @@ export const skillCategories = [
         name: "DSA in Java", 
         level: 85, 
         tag: "Problem Solving", 
-        desc: "Strengthening core Data Structures & Algorithms in Javaâ€”arrays, linked lists, trees, recursion, and algorithmic efficiency." 
+        desc: "Strengthening core Data Structures & Algorithms in Java - arrays, linked lists, trees, recursion, and algorithmic efficiency." 
       },
       { 
         name: "Java", 
@@ -173,7 +173,7 @@ export const projects = [
     title: "Java DSA Problem Solving & Algorithm Mastery",
     category: "Full-Stack",
     badge: "Active Coding Journey",
-    description: "A comprehensive problem-solving repository documenting Udit's ongoing journey mastering Data Structures and Algorithms using Javaâ€”spanning Arrays, Linked Lists, Trees, Sorting, and Dynamic Programming.",
+    description: "A comprehensive problem-solving repository documenting Udit's ongoing journey mastering Data Structures and Algorithms using Java - spanning Arrays, Linked Lists, Trees, Sorting, and Dynamic Programming.",
     longDescription: "Udit is actively strengthening his computer science fundamentals through rigorous Java DSA practice. This repository showcases optimized solutions to competitive programming challenges, algorithmic patterns (Two Pointers, Sliding Window, Recursion, DFS/BFS), and thorough time/space complexity documentation.",
     tags: ["Java", "DSA", "Algorithms", "Data Structures", "OOP", "Problem Solving"],
     features: [
@@ -213,7 +213,7 @@ export const projects = [
     title: "AI & Machine Learning Exploratory Playground",
     category: "Tools & Scripts",
     badge: "Future Tech Journey",
-    description: "An exploratory project suite diving into Artificial Intelligence and Machine Learning foundationsâ€”focusing on Python data analysis, predictive models, and future intelligent applications.",
+    description: "An exploratory project suite diving into Artificial Intelligence and Machine Learning foundations - focusing on Python data analysis, predictive models, and future intelligent applications.",
     longDescription: "Demonstrates Udit's forward-looking tech journey into AI & ML. Contains data preprocessing scripts, exploratory data analysis on real-world datasets, and fundamental machine learning algorithms designed to power future smart governance and automated decision systems.",
     tags: ["Python", "AI / ML", "Data Analysis", "NumPy", "Future Tech", "Predictive Models"],
     features: [

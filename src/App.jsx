@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -11,12 +11,14 @@ function App() {
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-[#07090e] text-slate-800 dark:text-slate-100 font-sans relative selection:bg-cyan-500/30 selection:text-cyan-700 dark:selection:text-cyan-200 transition-colors duration-300">
       
-      {/* Background Cyber Grid */}
+      {/* Background Tech Grid */}
       <div className="fixed inset-0 bg-grid-pattern pointer-events-none z-0"></div>
 
-      {/* Ambient Radial Lights */}
-      <div className="fixed top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-[600px] bg-radial-gradient pointer-events-none -z-10"></div>
-      <div className="fixed bottom-0 right-0 w-[500px] h-[500px] bg-radial-secondary pointer-events-none -z-10"></div>
+      {/* Vibrant Ambient Multi-Color Radial Atmospheric Lights */}
+      <div className="fixed top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-[650px] bg-radial-gradient pointer-events-none -z-10"></div>
+      <div className="fixed top-1/4 right-0 w-[600px] h-[600px] bg-radial-purple pointer-events-none -z-10"></div>
+      <div className="fixed top-1/2 left-0 w-[600px] h-[600px] bg-radial-emerald pointer-events-none -z-10"></div>
+      <div className="fixed bottom-0 right-0 w-[650px] h-[650px] bg-radial-rose pointer-events-none -z-10"></div>
 
       {/* Navigation Bar */}
       <Navbar />
